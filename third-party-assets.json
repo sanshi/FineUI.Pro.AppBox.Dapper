@@ -1,7 +1,6 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "auditStatus": "complete",
-  "productVersion": "16.0.0-beta.2",
   "targetPath": "FineUI.Pro.AppBox.Dapper/res",
   "resourceTreeSha256": "0351ccf210c612323978cf8de9badcf3147be3d6969418f39236b0564794d193",
   "thirdPartyAssets": [
