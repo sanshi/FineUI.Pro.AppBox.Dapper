@@ -650,7 +650,6 @@
     <Content Include="test\test1.aspx" />
     <Content Include="public\notice.aspx" />
     <Content Include="public\notice_detail.aspx" />
-    <Content Include="readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="themes.aspx" />
