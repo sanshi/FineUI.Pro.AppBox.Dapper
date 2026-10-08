@@ -92,7 +92,7 @@ namespace FineUI.Pro.AppBox.Dapper
             DateTime expiration = DateTime.Now.AddMinutes(120);
             CreateFormsAuthenticationTicket(user.ID, user.Name, roleIDs, isPersistent, expiration);
 
-            // 重定向到登陆后首页
+            // 重定向到登录后首页
             Response.Redirect(FormsAuthentication.DefaultUrl);
         }
 

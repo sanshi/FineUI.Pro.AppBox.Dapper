@@ -464,7 +464,7 @@ namespace FineUI.Pro.AppBox.Dapper
                 return true;
             }
 
-            // 当前登陆用户的权限列表
+            // 当前登录用户的权限列表
             List<string> rolePowerNames = GetRolePowerNames();
             if (rolePowerNames.Contains(powerName))
             {
